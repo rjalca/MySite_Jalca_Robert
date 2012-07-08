@@ -11,7 +11,7 @@ header{
 nav ul{
 	width: 400px;
 	margin: 0 auto;
-	line-style-type: none;
+	list-style-type: none;
 	padding: 0;
 	overflow: hidden;
 }
