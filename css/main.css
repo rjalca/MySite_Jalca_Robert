@@ -5,9 +5,6 @@ body{
 }
 
 /* -----------------------------------Nav Section--------------------------------------*/
-header{
-	background: #EEC000;
-}
 
 header img{
 	float: left;
@@ -20,6 +17,7 @@ section{
 nav ul{
 	width: 400px;
 	margin: 0 auto;
+	background: #EEC000;
 	list-style-type: none;
 	padding: 0;
 	overflow: hidden;
