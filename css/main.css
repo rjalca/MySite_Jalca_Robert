@@ -5,8 +5,16 @@ body{
 }
 
 /* -----------------------------------Nav Section--------------------------------------*/
+header{
+	background: #EEC000;
+}
+
 header img{
 	float: left;
+}
+
+section{
+	clear: both;
 }
 
 nav ul{
