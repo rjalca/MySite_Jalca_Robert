@@ -17,6 +17,7 @@ nav ul{
 }
 
 nav li{
+	text-decoration: none;
 	width: 100px;
 	float: left;
 }
