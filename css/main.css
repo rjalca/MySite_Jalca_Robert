@@ -5,8 +5,8 @@ body{
 }
 
 /* -----------------------------------Nav Section--------------------------------------*/
-header{
-	background: #EEC000;
+header img{
+	float: left;
 }
 
 nav ul{
