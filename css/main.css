@@ -7,3 +7,24 @@ body{
 header{
 	background: #EEC000;
 }
+
+ul{
+	width: 500px;
+	margin: 0 auto;
+	line-style-type: none;
+	padding: 0;
+	overflow: hidden;
+}
+
+li{
+	width: 100px;
+	float: left;
+}
+
+a{
+	text-decoration: none;
+	display: block;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+}
