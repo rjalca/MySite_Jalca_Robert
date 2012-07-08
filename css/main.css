@@ -4,6 +4,7 @@ body{
 	background: #FFF764;
 }
 
+/* -----------------------------------Nav Section--------------------------------------*/
 header{
 	background: #EEC000;
 }
@@ -29,7 +30,16 @@ nav a{
 	text-align: center;
 }
 
+a:visited{
+	color: red;
+}
+
 a:hover{
 	color: #EEC000;
+	background: #FFF764;
+}
+
+a:active{
+	color: black;
 	background: #FFF764;
 }
