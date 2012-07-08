@@ -6,6 +6,7 @@ body{
 
 /* -----------------------------------Nav Section--------------------------------------*/
 header{
+	height: 600px:
 	background: #EEC000;
 }
 
@@ -18,7 +19,7 @@ section{
 }
 
 nav ul{
-	width: 800px;
+	width: 400px;
 	margin: 0 auto;
 	list-style-type: none;
 	padding: 0;
