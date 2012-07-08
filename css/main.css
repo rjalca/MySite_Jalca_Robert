@@ -5,12 +5,11 @@ body{
 }
 
 header{
-	width: 300px;
 	background: #EEC000;
 }
 
 nav ul{
-	width: 150px;
+	width: 300px;
 	margin: 0 auto;
 	line-style-type: none;
 	padding: 0;
@@ -18,7 +17,7 @@ nav ul{
 }
 
 nav li{
-	width: 300px;
+	width: 150px;
 	float: left;
 }
 
