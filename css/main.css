@@ -16,6 +16,10 @@ header img{
 	float: left;
 }
 
+section{
+	clear: both;
+}
+
 h1{
 	font-family: 'Fondamento', cursive;
 	width: 443px;
@@ -63,10 +67,3 @@ a:active{
 
 /*---------------------------Section: Dish of the Week----------------------------------*/
 
-section img{
-	float: left;
-}
-
-section p{
-	float: right;
-}
