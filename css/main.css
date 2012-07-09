@@ -12,7 +12,7 @@ header img{
 
 h1{
 	font-family: 'Fondamento', cursive;
-	width: 709px;
+	width: 300px;
 	margin: 0 auto;
 	background: #EEC000;
 	padding: 0;
@@ -21,7 +21,7 @@ h1{
 }
 
 nav ul{
-	width: 709px;
+	width: 440px;
 	margin: 0 auto;
 	background: #EEC000;
 	list-style-type: none;
