@@ -30,7 +30,8 @@ nav ul{
 
 nav li{
 	width: 100px;
-	float: right;
+	padding: 30 0px;
+	float: left;
 }
 
 nav a{
