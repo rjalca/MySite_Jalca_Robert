@@ -16,8 +16,6 @@ header img{
 	float: left;
 }
 
-
-
 h1{
 	font-family: 'Fondamento', cursive;
 	width: 443px;
@@ -67,4 +65,8 @@ a:active{
 
 section img{
 	float: left;
+}
+
+section p{
+	float: right;
 }
