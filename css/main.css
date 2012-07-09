@@ -14,6 +14,12 @@ section{
 	clear: both;
 }
 
+h1{
+	width: 690px;
+	margin: 0 auto;
+	background: #EEC000;
+	padding: 0;
+
 nav ul{
 	width: 690px;
 	margin: 0 auto;
