@@ -24,7 +24,6 @@ h1{
 	font-family: 'Fondamento', cursive;
 	width: 443px;
 	margin: 0 auto;
-	
 	padding: 0;
 	overflow: hidden;
 	float: left;
@@ -32,8 +31,7 @@ h1{
 
 nav ul{
 	width: 300px;
-	margin: 0 auto;
-	
+	margin: 25 auto;
 	list-style-type: none;
 	padding: 0;
 	overflow: hidden;
