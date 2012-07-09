@@ -6,6 +6,10 @@ body{
 
 /* ------------------------------------Nav Section--------------------------------------*/
 
+header{
+	background: #EEC000;
+}
+
 header img{
 	float: left;
 }
@@ -18,7 +22,7 @@ h1{
 	font-family: 'Fondamento', cursive;
 	width: 443px;
 	margin: 0 auto;
-	background: #EEC000;
+	
 	padding: 0;
 	overflow: hidden;
 	float: left;
@@ -27,7 +31,7 @@ h1{
 nav ul{
 	width: 300px;
 	margin: 0 auto;
-	background: #EEC000;
+	
 	list-style-type: none;
 	padding: 0;
 	overflow: hidden;
