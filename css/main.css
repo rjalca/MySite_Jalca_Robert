@@ -31,9 +31,9 @@ h1{
 
 nav ul{
 	width: 300px;
-	margin: 25 auto;
+	margin: 0 auto;
 	list-style-type: none;
-	padding: 0;
+	padding: 25;
 	overflow: hidden;
 }
 
