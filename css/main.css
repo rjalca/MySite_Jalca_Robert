@@ -18,7 +18,7 @@ h1{
 	width: 690px;
 	margin: 0 auto;
 	background: #EEC000;
-	padding: 0;
+	padding: 10 20 10 0;
 	overflow: hidden;
 }
 
@@ -33,7 +33,7 @@ nav ul{
 
 nav li{
 	width: 100px;
-	float: left;
+	float: right;
 }
 
 nav a{
