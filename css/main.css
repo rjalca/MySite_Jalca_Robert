@@ -60,10 +60,6 @@ a:active{
 
 /*---------------------------Section: Dish of the Week----------------------------------*/
 
-body section img{
+section img{
 	float: left;
-}
-
-body section h3{
-	clear: both;
 }
