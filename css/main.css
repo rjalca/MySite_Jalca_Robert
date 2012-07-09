@@ -4,7 +4,7 @@ body{
 	background: #FFF764;
 }
 
-/* -----------------------------------Nav Section--------------------------------------*/
+/* ------------------------------------Nav Section--------------------------------------*/
 
 header img{
 	float: left;
@@ -57,3 +57,13 @@ a:hover{
 a:active{
 	color: #00;
 	background: #FFF764;
+
+/*---------------------------Section: Dish of the Week----------------------------------*/
+
+section img{
+	float: left;
+}
+
+h3{
+	clear: both;
+}
