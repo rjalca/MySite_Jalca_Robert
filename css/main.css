@@ -73,10 +73,7 @@ a:active{
 	float: right;
 }
 
-img{
-	border: solid #EEC000 2px
-}
-
 .dishes{
 	margin: 2px;
+	border: solid #EEC000 2px
 }
