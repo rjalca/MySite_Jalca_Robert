@@ -36,7 +36,6 @@ nav ul{
 
 nav li{
 	width: 100px;
-	padding: 0;
 	float: left;
 }
 
@@ -54,7 +53,7 @@ a:visited{
 }
 
 a:hover{
-	color: #EEC000;
+	color: #00;
 	background: #FFF764;
 }
 
