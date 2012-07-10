@@ -63,9 +63,10 @@ a:hover{
 a:active{
 	color: #00;
 	background: #FFF764;
+}
 
 /*---------------------------------- Dish of the Week----------------------------------*/
 
-footer p{
-	color: #999;
+#info{
+	color: red;
 }
