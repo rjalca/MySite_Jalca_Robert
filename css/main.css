@@ -20,6 +20,10 @@ nav ul{
 	float: right;
 }
 
+section{
+	clear: both;
+}
+
 h1{
 	font-family: 'Fondamento', cursive;
 	width: 443px;
