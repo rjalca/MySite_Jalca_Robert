@@ -24,6 +24,7 @@ h1{
 	font-family: 'Fondamento', cursive;
 	width: 440px;
 	margin: 0 auto;
+	padding: 25;
 	height: 50px;
 	line-height: 50px;
 	overflow: hidden;
@@ -66,3 +67,4 @@ a:active{
 	background: #FFF764;
 
 /*---------------------------------- Dish of the Week----------------------------------*/
+
