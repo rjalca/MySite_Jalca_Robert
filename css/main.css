@@ -81,10 +81,6 @@ a:active{
 }
 
 div{
-	-moz-column-count: 3;
-	-moz-column-gap: 6px;
-	-web-column-count: 3;
-	-web-column-gap: 6px;
-	-o-column-count: 3;
-	-o-column-gap: 6px;
+	column-count: 3;
+	column-gap: 6px;
 }
