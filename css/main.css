@@ -69,5 +69,6 @@ a:active{
 
 #info{
 	width: 450px;
+	margin: 0 auto;
 	float: right;
 }
