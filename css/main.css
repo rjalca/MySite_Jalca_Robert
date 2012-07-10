@@ -73,7 +73,14 @@ a:active{
 	float: right;
 }
 
+/*-----------------------------------Other Dishes--------------------------------------*/
+
 .dishes{
 	margin: 2px;
 	border: solid #EEC000 2px
+}
+
+div{
+	-moz-column-count: 3;
+	-moz-column-gap: 2px;
 }
