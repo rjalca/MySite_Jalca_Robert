@@ -12,7 +12,7 @@ header{
 	height: 50px;
 }
 
-header img{
+img{
 	float: left;
 }
 
@@ -36,7 +36,6 @@ nav ul{
 
 nav li{
 	width: 100px;
-	margin: 0;
 	float: left;
 }
 
@@ -63,4 +62,3 @@ a:active{
 	background: #FFF764;
 
 /*---------------------------Section: Dish of the Week----------------------------------*/
-
