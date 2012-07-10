@@ -64,6 +64,6 @@ a:active{
 
 /*---------------------------Section: Dish of the Week----------------------------------*/
 
-section img{
+body div img{
 	float: left;
 }
