@@ -65,9 +65,8 @@ a:active{
 	color: #00;
 	background: #FFF764;
 
-#info{
-	width: 300px;
-}
-
 /*---------------------------------- Dish of the Week----------------------------------*/
 
+#info{
+	color: red;
+}
