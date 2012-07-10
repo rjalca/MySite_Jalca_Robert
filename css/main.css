@@ -16,6 +16,10 @@ img{
 	float: left;
 }
 
+h3{
+	clear: both;
+}
+
 h1{
 	font-family: 'Fondamento', cursive;
 	width: 440px;
@@ -62,7 +66,3 @@ a:active{
 	background: #FFF764;
 
 /*---------------------------------- Dish of the Week----------------------------------*/
-
-.ingredients{
-	clear: both;
-}
