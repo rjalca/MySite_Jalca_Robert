@@ -23,7 +23,7 @@ h3{
 h1{
 	font-family: 'Fondamento', cursive;
 	width: 440px;
-	margin: 25 auto;
+	margin: 0 25;
 	height: 50px;
 	line-height: 50px;
 	overflow: hidden;
