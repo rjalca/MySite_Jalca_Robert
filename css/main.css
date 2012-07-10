@@ -16,6 +16,9 @@ header img{
 	float: left;
 }
 
+section{
+	clear: left;
+}
 
 h1{
 	font-family: 'Fondamento', cursive;
