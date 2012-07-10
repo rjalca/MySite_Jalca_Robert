@@ -16,8 +16,8 @@ header img{
 	float: left;
 }
 
-section{
-	clear: both;
+nav ul{
+	float: right;
 }
 
 h1{
