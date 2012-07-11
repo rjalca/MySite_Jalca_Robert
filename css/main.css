@@ -89,7 +89,7 @@ h2{
 	text-align: center;
 	background: #EEC000;
 	border: solid 1px #000;
-	border-radius: 1em;
+	border-radius: .5em;
 }
 /*-----------------------------------Other Dishes--------------------------------------*/
 
@@ -100,7 +100,7 @@ h2{
 
 div{
 	-moz-columns: 3 240px;
-	-web-columns: 3 240px;
+	-webkit-columns: 3 240px;
 	-o-columns: 3 240px;
 	columns: 3 240px;
 }
