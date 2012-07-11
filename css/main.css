@@ -86,6 +86,7 @@ h2{
 #order_button{
 	width: 200px;
 	line-height: 30px;
+	text-align: center;
 	background: #EEC000;
 }
 /*-----------------------------------Other Dishes--------------------------------------*/
