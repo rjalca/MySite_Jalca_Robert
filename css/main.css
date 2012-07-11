@@ -23,6 +23,7 @@ h4, div{
 h1{
 	font-family: 'Fondamento', cursive;
 	text-shadow: 2px 2px 2px #F5F5F5;
+	padding-left: 10px;
 	width: 440px;
 	margin: 0 auto;
 	height: 50px;
