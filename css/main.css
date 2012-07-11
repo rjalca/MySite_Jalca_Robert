@@ -92,6 +92,11 @@ h2 {
 	text-align: center;
 	text-decoration: none;
 	background: #EEC000;
+	background: -webkit-gradient(linear, left top, left bottom, from(#FAA51A), to
+	(#F47A20));
+	background: -moz-linear-gradient(top, #FAA51A, #F47A20);
+	filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#FAA51A',
+	endColorstr='#F47A20');
 	border: solid 1px #000;
 	-moz-border-radius: .5em;
 	-webkit-border-radius: .5em;
@@ -105,11 +110,21 @@ h2 {
 
 #order_button:hover {
 	text-decoration: none;
+	background: -webkit-gradient(linear, left top, left bottom, from(#F88E11), to
+	(#F06015));
+	background: -moz-linear-gradient(top, #F88E11, #F06015);
+	filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#F88E11',
+	endColorstr='#F06015');
 }
 
 #order_button:active {
 	position: relative;
 	top: 1px;
+	background: -webkit-gradient(linear, left top, left bottom, from(#F47A20), to
+	(#FAA51A));
+	background: -moz-linear-gradient(top, #F47A20, #FAA51A);
+	filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#F47A20',
+	endColorstr='#FAA51A');
 }
 
 /*-----------------------------------Other Dishes--------------------------------------*/
