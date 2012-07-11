@@ -78,6 +78,10 @@ h2{
 	float: right;
 }
 
+header ul{
+	list-style: arrow;
+}
+
 /*-----------------------------------Other Dishes--------------------------------------*/
 
 .dishes{
