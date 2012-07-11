@@ -95,8 +95,6 @@ h2 {
 	background: -webkit-gradient(linear, left top, left bottom, from(#EEC000), to
 	(#F47A20));
 	background: -moz-linear-gradient(top, #EEC000, #F47A20);
-	filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#EEC000',
-	endColorstr='#F47A20');
 	border: solid 1px #000;
 	-moz-border-radius: .5em;
 	-webkit-border-radius: .5em;
@@ -113,8 +111,6 @@ h2 {
 	background: -webkit-gradient(linear, left top, left bottom, from(#F88E11), to
 	(#F06015));
 	background: -moz-linear-gradient(top, #F88E11, #F06015);
-	filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#F88E11',
-	endColorstr='#F06015');
 }
 
 #order_button:active {
@@ -123,8 +119,6 @@ h2 {
 	background: -webkit-gradient(linear, left top, left bottom, from(#F47A20), to
 	(#EEC000));
 	background: -moz-linear-gradient(top, #F47A20, #EEC000);
-	filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#F47A20',
-	endColorstr='#EEC000');
 }
 
 /*-----------------------------------Other Dishes--------------------------------------*/
