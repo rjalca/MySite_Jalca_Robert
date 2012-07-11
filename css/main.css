@@ -86,8 +86,13 @@ div{
 	-o-column-count: 3;
 	column-count: 3;
 	
-	-moz-column-gap: 10px;
+	-moz-column-width: 240px
+	-web-column-width: 240px
+	-o-column-width: 240px
+	column-width: 240px
+	
+	/*-moz-column-gap: 10px;
 	-web-column-gap: 10px;
 	-o-column-gap: 10px;
-	column-gap: 10px;
+	column-gap: 10px;*/
 }
