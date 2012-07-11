@@ -121,13 +121,13 @@ h2 {
 /*-----------------------------------Other Dishes--------------------------------------*/
 
 .dishes {
-	margin: 4px;
+	margin: 10px;
 	border: solid #EEC000 2px
 }
 
 div {
-	-moz-columns: 4 150px;
-	-webkit-columns: 4 150px;
-	-o-columns: 4 150px;
-	columns: 4 150px;
+	-moz-columns: 4 130px;
+	-webkit-columns: 4 130px;
+	-o-columns: 4 130px;
+	columns: 4 130px;
 }
