@@ -88,6 +88,8 @@ h2{
 	line-height: 30px;
 	text-align: center;
 	background: #EEC000;
+	border: solid 1px #000;
+	border-radius: 1em;
 }
 /*-----------------------------------Other Dishes--------------------------------------*/
 
