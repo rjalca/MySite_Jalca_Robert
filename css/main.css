@@ -83,6 +83,10 @@ h2{
 	float: right;
 }
 
+#order_button{
+	width: 50px;
+	background: #EEC000;
+}
 /*-----------------------------------Other Dishes--------------------------------------*/
 
 .dishes{
