@@ -96,9 +96,11 @@ h2 {
 	-moz-border-radius: .5em;
 	-webkit-border-radius: .5em;
 	-o-border-radius: .5em;
+	border-radius: .5em;
 	-moz-box-shadow: 0 2px 2px #000;
 	-webkit-box-shadow: 0 2px 2px #000;
 	-o-box-shadow: 0 2px 2px #000;
+	box-shadow: 0 2px 2px #000;
 }
 
 #order_button:hover {
