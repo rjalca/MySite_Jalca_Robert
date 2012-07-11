@@ -67,6 +67,10 @@ a:active{
 
 /*---------------------------------- Dish of the Week----------------------------------*/
 
+h2{
+	font-family: 'Yeseva One', cursive;
+}
+
 #info{
 	width: 450px;
 	margin: 0 auto;
@@ -85,9 +89,4 @@ div{
 	-web-columns: 3 240px;
 	-o-columns: 3 240px;
 	columns: 3 240px;
-	
-	-moz-column-span: 3;
-	-web-column-span: 3;
-	-o-column-span: 3;
-	column-span: 3;
 }
