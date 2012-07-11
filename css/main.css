@@ -126,8 +126,8 @@ h2 {
 }
 
 div {
-	-moz-columns: 3 240px;
-	-webkit-columns: 3 240px;
-	-o-columns: 3 240px;
-	columns: 3 240px;
+	-moz-columns: 4 175px;
+	-webkit-columns: 4 175px;
+	-o-columns: 4 175px;
+	columns: 4 175px;
 }
