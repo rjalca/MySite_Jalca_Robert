@@ -78,12 +78,8 @@ h2{
 	float: right;
 }
 
-header ul{
+header aside ul{
 	list-style-type: square;
-}
-
-h4{
-	margin: 20px;
 }
 
 /*-----------------------------------Other Dishes--------------------------------------*/
