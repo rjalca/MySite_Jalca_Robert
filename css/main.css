@@ -92,10 +92,10 @@ h2 {
 	text-align: center;
 	text-decoration: none;
 	background: #EEC000;
-	background: -webkit-gradient(linear, left top, left bottom, from(#FAA51A), to
+	background: -webkit-gradient(linear, left top, left bottom, from(#EEC00), to
 	(#F47A20));
-	background: -moz-linear-gradient(top, #FAA51A, #F47A20);
-	filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#FAA51A',
+	background: -moz-linear-gradient(top, #EEC00, #F47A20);
+	filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#EEC00',
 	endColorstr='#F47A20');
 	border: solid 1px #000;
 	-moz-border-radius: .5em;
@@ -121,10 +121,10 @@ h2 {
 	position: relative;
 	top: 1px;
 	background: -webkit-gradient(linear, left top, left bottom, from(#F47A20), to
-	(#FAA51A));
-	background: -moz-linear-gradient(top, #F47A20, #FAA51A);
+	(#EEC00));
+	background: -moz-linear-gradient(top, #F47A20, #EEC00);
 	filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#F47A20',
-	endColorstr='#FAA51A');
+	endColorstr='#EEC00');
 }
 
 /*-----------------------------------Other Dishes--------------------------------------*/
