@@ -82,6 +82,12 @@ a:active{
 
 div{
 	-moz-column-count: 3;
+	-web-column-count: 3;
+	-o-column-count: 3;
+	column-count: 3;
+	
 	-moz-column-gap: 6px;
-
+	-web-column-gap: 6px;
+	-o-column-gap: 6px;
+	column-gap: 6px;
 }
