@@ -73,6 +73,10 @@ h2{
 	font-family: 'Yeseva One', cursive;
 }
 
+#ingredients{
+	list-style-type: square;
+}
+
 #info{
 	width: 450px;
 	margin: 0 auto;
