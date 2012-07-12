@@ -13,7 +13,7 @@ header {
 }
 
 img {
-	margin left: 10px;
+	margin-left: 10px;
 	float: left;
 }
 
@@ -73,7 +73,7 @@ a:active {
 #main-dish {
 	background: #EEC000;
 	width: 790px;
-	height: 267px;
+	height: 265px;
 }
 
 h2 {
