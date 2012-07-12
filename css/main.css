@@ -53,22 +53,18 @@ nav a {
 	text-align: center;
 }
 
-a:link {
+a:active {
 	color: #000;
+	background: #FFF764;
+}
+
+a:hover {
+	color: #0000FF;
+	background: #FFF764;
 }
 
 a:visited {
 	color: #6B8E23;
-}
-
-a:hover {
-	color: #000;
-	background: #FFF764;
-}
-
-a:active {
-	color: #000;
-	background: #FFF764;
 }
 
 /*---------------------------------- Dish of the Week----------------------------------*/
