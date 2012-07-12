@@ -53,6 +53,10 @@ nav a {
 	text-align: center;
 }
 
+a:link {
+	color: #000;
+}
+
 a:visited {
 	color: #6B8E23;
 }
