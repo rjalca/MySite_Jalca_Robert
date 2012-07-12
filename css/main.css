@@ -53,6 +53,10 @@ nav a {
 	text-align: center;
 }
 
+a:visited {
+	color: #6B8E23;
+}
+
 a:active {
 	color: #000;
 	background: #FFF764;
@@ -63,9 +67,7 @@ a:hover {
 	background: #FFF764;
 }
 
-a:visited {
-	color: #6B8E23;
-}
+
 
 /*---------------------------------- Dish of the Week----------------------------------*/
 
