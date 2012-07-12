@@ -99,6 +99,7 @@ h2 {
 .titles {
 	width: 188px;
 	margin: 7px;
+	float: left;
 }
 
 /*div {
