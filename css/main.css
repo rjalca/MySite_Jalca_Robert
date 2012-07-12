@@ -121,6 +121,12 @@ h2 {
 
 /*---------------------------------Subscribe Section-----------------------------------*/
 
+#subscribe{
+	width: 790px;
+	height: 400px;
+	background:  #EEC000;
+}
+
 #button {
 	display: inline-block;
 	outline: none;
