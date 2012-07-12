@@ -106,6 +106,7 @@ h2 {
 /*-----------------------------------About Info----------------------------------------*/
 
 #about {
+	margin: 0 auto;
 	-moz-columns: 3 130px;
 	-webkit-columns: 3 130px;
 	-o-columns: 3 130px;
