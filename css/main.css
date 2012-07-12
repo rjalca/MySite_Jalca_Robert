@@ -98,7 +98,7 @@ h2 {
 
 .dishes {
 	margin: 7px;
-	border: solid #EEC000 2px
+	border: solid #EEC000 2px;
 }
 
 .titles {
@@ -111,6 +111,7 @@ h2 {
 /*-----------------------------------About Info----------------------------------------*/
 
 #about {
+	border: dashed #000 2px;
 	padding-top: 20px;
 	-moz-columns: 3 130px;
 	-webkit-columns: 3 130px;
