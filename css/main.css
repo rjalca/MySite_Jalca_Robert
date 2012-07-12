@@ -96,6 +96,11 @@ h2 {
 	border: solid #EEC000 2px
 }
 
+.titles {
+	width: 188px;
+	margin: 7px;
+}
+
 /*div {
 	-moz-columns: 3 130px;
 	-webkit-columns: 3 130px;
