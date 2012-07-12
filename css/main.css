@@ -79,6 +79,8 @@ a:hover {
 
 h2 {
 	font-family: 'Yeseva One', cursive;
+	padding-top: 10px;
+	padding-left: 10px;
 }
 
 #ingredients {
