@@ -90,7 +90,7 @@ h2 {
 #info {
 	width: 375px;
 	margin: 0 auto;
-	padding: 25px;
+	padding-right: 25px;
 	float: right;
 }
 
