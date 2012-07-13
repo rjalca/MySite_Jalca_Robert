@@ -124,7 +124,8 @@ h2 {
 #subscribe{
 	width: 790px;
 	height: 400px;
-	background:  #EEC000; opacity .5em;
+	background:  #EEC000; 
+	opacity: .5em;
 }
 
 #button {
