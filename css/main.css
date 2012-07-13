@@ -54,11 +54,11 @@ nav a {
 }
 
 a:visited {
-	color: #6B8E23;
+	color: #800000;
 }
 
 a:active {
-	color: #000;
+	color: #0000FF;
 	background: #FFF764;
 }
 
@@ -147,6 +147,9 @@ h2 {
 	-webkit-box-shadow: 0 2px 2px #000;
 	-o-box-shadow: 0 2px 2px #000;
 	box-shadow: 0 2px 2px #000;
+	position: absolute;
+	right: 500px;
+	bottom: 350px;
 }
 
 #button:hover {
