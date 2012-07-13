@@ -86,6 +86,11 @@ h2 {
 
 #ingredients {
 	list-style-type: square;
+	font-family: 'Times Roman';
+}
+
+ol {
+	font-family: 'Times Roman';
 }
 
 #info {
