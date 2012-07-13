@@ -21,7 +21,7 @@ img {
 }
 
 h1 {
-	font-family: 'Fondamento', cursive;
+	font-family: 'Fondamento', cursive, Serif;
 	text-shadow: 2px 2px 2px #F5F5F5;
 	padding-left: 10px;
 	width: 430px;
@@ -75,22 +75,22 @@ a:hover {
 	background: #EEC000;
 	width: 790px;
 	height: 274px;
-	font-family: 'Arial';
+	font-family: 'Arial', cursive, Serif;
 }
 
 h2 {
-	font-family: 'Yeseva One', cursive;
+	font-family: 'Yeseva One', cursive, Serif;
 	padding-top: 10px;
 	padding-left: 10px;
 }
 
 #ingredients {
 	list-style-type: square;
-	font-family: 'Times Roman';
+	font-family: 'Times Roman', cursive, Serif;
 }
 
 ol {
-	font-family: 'Times Roman';
+	font-family: 'Times Roman', cursive, Serif;
 }
 
 #info {
