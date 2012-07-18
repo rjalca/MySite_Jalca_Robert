@@ -22,8 +22,8 @@ img {
 h1 {
 	font-family: 'Fondamento', cursive, Serif;
 	text-shadow: 2px 2px 2px #F5F5F5;
-	padding-left: 10%;
-	width: 54.4303797%;
+	padding-left: 10px;
+	width: 430px;
 	margin: 0 auto;
 	height: 50px;
 	line-height: 50px;
@@ -31,7 +31,7 @@ h1 {
 }
 
 nav ul {
-	width: 300px;
+	width: 360px;
 	margin: 0 auto;
 	list-style-type: none;
 	padding: 0;
