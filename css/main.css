@@ -7,21 +7,19 @@ body {
 
 /* ------------------------------------Nav Section--------------------------------------*/
 
-img {
-	float: left;
-}
-
-#prep, #about {
-	clear: both;
-}
-
 header {
 	background: #FF8C00;
 	width: 100%; /* 790px */
 	height: 50px;
 }
 
+#logo {
+	float: left;
+}
 
+#prep, #about #main-dish {
+	clear: both;
+}
 
 h1 {
 	font-family: 'Fondamento', cursive, Serif;
@@ -31,7 +29,7 @@ h1 {
 	margin: 0 auto;
 	height: 50px;
 	line-height: 50px;
-	float: left;
+	
 }
 
 nav ul {
