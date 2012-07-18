@@ -85,13 +85,9 @@ h2 {
 	padding-left: 1.2658228%;
 }
 
-#ingredients {
-	list-style-type: square;
-	font-family: 'Times', cursive, Serif;
-}
-
-ol {
-	font-family: 'Times', cursive, Serif;
+#weekly-dish {
+	padding-bottom: 1.2658228%;
+	padding-left: 1.2658228%;
 }
 
 #info {
@@ -99,6 +95,15 @@ ol {
 	margin: 0 auto;
 	/*padding-right: 5.6962025%;*/
 	float: right;
+}
+
+#ingredients {
+	list-style-type: square;
+	font-family: 'Times', cursive, Serif;
+}
+
+ol {
+	font-family: 'Times', cursive, Serif;
 }
 
 /*-----------------------------------Other Dishes--------------------------------------*/
