@@ -29,7 +29,7 @@ h1 {
 	margin: 0 auto;
 	height: 50px;
 	line-height: 50px;
-	float: left;
+	/*float: left;*/
 }
 
 nav ul {
@@ -42,7 +42,7 @@ nav ul {
 
 nav li {
 	width: 33.3333333%; /* 100px */
-	/*float: left;*/
+	float: left;
 }
 
 nav a {
