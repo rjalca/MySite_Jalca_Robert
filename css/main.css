@@ -97,7 +97,9 @@ ol {
 #info {
 	width: 47.4683544%;
 	margin: 0 auto;
-	padding-right: 5.6962025%;
+	display: block;
+	text-align: center:
+	/*padding-right: 5.6962025%;*/
 	float: right;
 }
 
