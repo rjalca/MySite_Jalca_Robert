@@ -81,9 +81,8 @@ a:hover {
 
 h2 {
 	font-family: 'Yeseva One', cursive, Serif;
-	fong-size: 1.25em;
-	padding-top: 1.2658228%;
-	padding-left: 1.2658228%;
+	font-size: 1.25em;
+	padding: 1.2658228%;
 }
 
 #weekly-dish {
