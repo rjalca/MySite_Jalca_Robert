@@ -42,8 +42,7 @@ nav ul {
 
 nav li {
 	width: 33.3333333%; /* 100px */
-	padding-right: 6.3291139%;
-	float: left;
+	float: right;
 }
 
 nav a {
