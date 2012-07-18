@@ -34,8 +34,8 @@ h1 {
 
 nav ul {
 	width: 40.5405405%; /* 300px */
-	/*margin: 0 auto;
-	padding: 0;*/
+	margin: 0 auto;
+	padding: 0;
 	list-style-type: none;
 	overflow: hidden;
 }
