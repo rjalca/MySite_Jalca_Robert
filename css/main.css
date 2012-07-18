@@ -17,10 +17,6 @@ img {
 	float: left;
 }
 
-#logo {
-	float: left;
-}
-
 #prep, #about {
 	clear: both;
 }
@@ -46,6 +42,7 @@ nav ul {
 
 nav li {
 	width: 33.3333333%; /* 100px */
+	padding-right: 1.2658228%;
 	float: left;
 }
 
