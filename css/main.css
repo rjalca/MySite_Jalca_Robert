@@ -7,12 +7,6 @@ body {
 
 /* ------------------------------------Nav Section--------------------------------------*/
 
-header {
-	background: #FF8C00;
-	width: 93.6708861%; /* 740px */
-	height: 50px;
-}
-
 img {
 	float: left;
 }
@@ -20,6 +14,14 @@ img {
 #prep, #about {
 	clear: both;
 }
+
+header {
+	background: #FF8C00;
+	width: 100%; /* 790px */
+	height: 50px;
+}
+
+
 
 h1 {
 	font-family: 'Fondamento', cursive, Serif;
