@@ -118,11 +118,10 @@ h2 {
 
 #ingredients {
 	width: 31.25%; /* 300px */
-	float: left;
 }
 
 #prep {
-	width: 62.5%; /* 600px */
+	width: 50%; /* 600px */
 	float: right;
 
 /*-----------------------------------Other Dishes--------------------------------------*/
