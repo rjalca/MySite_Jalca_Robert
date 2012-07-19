@@ -194,10 +194,6 @@ h2 {
 /* Tablet Portrait size to standard 960 (devices and browsers) */
 @media screen and (min-width: 768px) and (max width: 959px) {
 	
-	.dishes, .titles {
-		margin: 0 auto;
-	}
-	
 }
 
 /* Mobile Landscape size to Tablet Portrait (devices and browsers) */
