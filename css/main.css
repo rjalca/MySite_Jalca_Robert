@@ -2,7 +2,8 @@ body {
 	width: 790px;
 	margin: 0 auto;
 	background: #FFF764;
-	font: 100%;
+	font-family: 'Arial', cursive, Serif;
+	font-size: 1em;
 }
 
 /* ------------------------------------Nav Section--------------------------------------*/
@@ -49,7 +50,6 @@ nav li {
 
 nav a {
 	text-decoration: none;
-	font-size: 1em;
 	display: block;
 	height: 30px;
 	line-height: 30px;
@@ -78,12 +78,11 @@ a:hover {
 	background: #EEC000;
 	width: 100%; /* 790px */
 	height: 275px;
-	font-family: 'Arial', cursive, Serif;
 }
 
 h2 {
 	font-family: 'Yeseva One', cursive, Serif;
-	font-size: 1.625em;
+	font-size: 1.5em;
 	font-style: none;
 	margin: 0 auto;
 	height: 40px;
@@ -97,23 +96,14 @@ h2 {
 }
 
 #info {
-	font-family: 'Arial', cursive, Serif;
 	width: 47.4683544%;
 	margin: 0 auto;
 	padding-right: 5.6962025%;
 	float: right;
 }
 
-#ingredients {
-	font-family: 'Arial', cursive, Serif;
-}
-
 #ing-list {
 	list-style-type: square;
-}
-
-#prep {
-	font-family: 'Arial', cursive, Serif;
 }
 
 /*-----------------------------------Other Dishes--------------------------------------*/
@@ -139,7 +129,6 @@ h2 {
 	-webkit-columns: 3 130px;
 	-o-columns: 3 130px;
 	columns: 3 130px;
-	font-family: 'Arial';
 }
 
 /*---------------------------------Subscribe Section-----------------------------------*/
@@ -157,6 +146,7 @@ h2 {
 	cursor: pointer;
 	width: 25.3164557%;
 	line-height: 30px;
+	font-size: 1.25em;
 	text-align: center;
 	text-decoration: none;
 	background: #EEC000;
