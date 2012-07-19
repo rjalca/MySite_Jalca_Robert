@@ -76,7 +76,7 @@ a:hover {
 
 #main-dish {
 	background: #EEC000;
-	width: 82.2916667%; /* 790px */
+	width: 100%; /* 960px */
 	height: 275px;
 }
 
@@ -123,7 +123,7 @@ h2 {
 /*-----------------------------------About Info----------------------------------------*/
 
 #about {
-	width: 82.2916667%;
+	width: 100%; /* 960px */
 	border: dashed #000 2px;
 	padding: 2.5316456%;
 	-moz-columns: 3 130px;
@@ -135,7 +135,7 @@ h2 {
 /*---------------------------------Subscribe Section-----------------------------------*/
 
 #subscribe{
-	width: 82.2916667%;
+	width: 100%; /* 960px */
 	height: 400px;
 	background:  #EEC000;
 	opacity: 0.7; 
