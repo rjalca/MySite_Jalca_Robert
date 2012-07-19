@@ -25,6 +25,7 @@ img {
 h1 {
 	font-family: 'Fondamento', cursive, Serif;
 	font-size: 2em;
+	font-style: none;
 	text-shadow: 2px 2px 2px #F5F5F5;
 	padding-left: 1.2658228%;
 	width: 46.835443%; /* 370px */
