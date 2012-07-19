@@ -102,7 +102,7 @@ h2 {
 }
 
 #info {
-	width: 52.0833333%;
+	width: 52.0833333%; /* 500px */
 	margin: 0 auto;
 	padding-right: 1.2658228%;
 	float: right;
@@ -114,8 +114,12 @@ h2 {
 
 /*-----------------------------------Other Dishes--------------------------------------*/
 
+#other-dishes {
+	width: 100%; /* 960px */
+}
+
 .dishes {
-	margin: .8860759%;
+	margin: 5.1041667%; /* 49px */
 	border: solid #EEC000 2px;
 }
 
