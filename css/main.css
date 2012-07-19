@@ -17,7 +17,7 @@ img {
 	float: left;
 }
 
-#prep, #about {
+#about {
 	clear: both;
 }
 
@@ -104,7 +104,6 @@ h2 {
 #ingredients {
 	list-style-type: square;
 	font-family: 'Times', cursive, Serif;
-	float: left;
 }
 
 ol {
