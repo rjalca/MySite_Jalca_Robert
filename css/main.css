@@ -78,6 +78,7 @@ a:hover {
 	background: #EEC000;
 	width: 100%; /* 790px */
 	height: 275px;
+	font-family: 'Arial', cursive, Serif;
 }
 
 h2 {
@@ -104,11 +105,11 @@ h2 {
 }
 
 #ingredients {
-	list-style-type: square;
 	font-family: 'Arial', cursive, Serif;
+	list-style-type: square;
 }
 
-ol {
+#prep {
 	font-family: 'Arial', cursive, Serif;
 }
 
