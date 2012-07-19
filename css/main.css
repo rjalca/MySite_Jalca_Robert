@@ -146,7 +146,7 @@ h2 {
 /*---------------------------------Subscribe Section-----------------------------------*/
 
 #subscribe{
-	background-position: relative;
+	position: relative;
 	width: 100%; /* 960px */
 	height: 400px;
 	background:  #EEC000;
@@ -163,8 +163,9 @@ h2 {
 	font-size: 2em;
 	text-align: center;
 	text-decoration: none;
-	background-position: absolute;
-	background-position: 98% 98%;
+	position: absolute;
+	left: 98%;
+	bottom: 98%;
 	background: #EEC000;
 	background: -webkit-gradient(linear, left top, left bottom, from(#EEC000), to(#F47A20));
 	background: -moz-linear-gradient(top, #EEC000, #F47A20);
