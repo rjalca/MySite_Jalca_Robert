@@ -192,16 +192,16 @@ h2 {
 /*------------------------------------Media Queries------------------------------------*/
 
 /* Tablet Portrait size to standard 960 (devices and browsers) */
-@media screen and (min-width: 768px) and (max width: 959px) {
+@media screen and (min-width: 768px) and (max-width: 959px) {
 	#subscribe { background: blue; }
 }
 
 /* Mobile Landscape size to Tablet Portrait (devices and browsers) */
-@media screen and (min-width: 480px) and (max width: 767px) {
+@media only screen and (min-width: 480px) and (max-width: 767px) {
 	#subscribe { background: red; }
 }
 
 /* Mobile Portrait size to Mobile Landscape (devices and browsers) */
-@media only screen and (max width: 479px) {
+@media only screen and (max-width: 479px) {
 	#subscribe { background: green; }
 }
