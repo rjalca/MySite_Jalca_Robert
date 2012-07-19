@@ -194,21 +194,8 @@ h2 {
 /* Tablet Portrait size to standard 960 (devices and browsers) */
 @media screen and (min-width: 768px) and (max width: 959px) {
 	
-	#other-dishes {
-		width: 80%; /* 960px */
-	}
-
-	.dishes {
-		width: 18.2291667%; /* 175 px */
-		margin-right: 1.3541667%; /* 13px */
-		border: solid #EEC000 2px;
-	}
-
-	.titles {
-		width: 18.2291667%; /* 175 px */
-		margin-right: 1.3541667%; /* 13px */
-		text-align: center;
-		float: left;
+	.dishes, .titles {
+		margin: 0 auto;
 	}
 	
 }
