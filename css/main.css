@@ -1,6 +1,7 @@
 body {
 	width: 790px;
 	margin: 0 auto;
+	overflow: hidden;
 	background: #FFF764;
 	font-family: 'Arial', cursive, Serif;
 	font-size: 1em;
