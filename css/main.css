@@ -92,7 +92,7 @@ h2 {
 	margin: 0 auto;
 	height: 40px;
 	line-height: 40px;
-	padding: 1.2658228%;
+	padding: 1.2658228%; /* 2px */
 }
 
 #weekly-img {
@@ -103,7 +103,7 @@ h2 {
 
 #info {
 	width: 58.3333333%; /* 560px */
-	margin: 0 auto;
+	/*margin: 0 auto;*/
 	/*padding-right: 5.6962025%;*/
 	float: right;
 }
