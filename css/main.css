@@ -22,12 +22,16 @@ img {
 	clear: both;
 }
 
+#logo {
+	width: 5.2083333%; /* 50px */
+}
+
 h1 {
 	font-family: 'Fondamento', cursive, Serif;
 	font-size: 2em;
 	text-shadow: 2px 2px 2px #F5F5F5;
 	padding-left: 1.2658228%;
-	width: 46.835443%; /* 370px */
+	width: 61.4583333%; /* 590px */
 	margin: 0 auto;
 	height: 50px;
 	line-height: 50px;
@@ -35,7 +39,7 @@ h1 {
 }
 
 nav ul {
-	width: 46.835443%; /* 370px */
+	width: 33.3333333%; /* 320px */
 	margin: 0 auto;
 	padding: 0;
 	list-style-type: none;
