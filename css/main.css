@@ -23,6 +23,7 @@ img {
 
 h1 {
 	font-family: 'Fondamento', cursive, Serif;
+	font-size: 3em;
 	text-shadow: 2px 2px 2px #F5F5F5;
 	padding-left: 1.2658228%;
 	width: 46.835443%; /* 370px */
@@ -74,7 +75,7 @@ a:hover {
 
 #main-dish {
 	background: #EEC000;
-	width: 100%;
+	width: 100%; /* 790px */
 	height: 275px;
 	font-family: 'Arial', cursive, Serif;
 }
