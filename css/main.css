@@ -112,6 +112,14 @@ h2 {
 	list-style-type: square;
 }
 
+#ingredients {
+
+}
+
+#prep {
+	float: right;
+}
+
 /*-----------------------------------Other Dishes--------------------------------------*/
 
 #other-dishes {
