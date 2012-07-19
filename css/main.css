@@ -78,7 +78,6 @@ a:hover {
 	background: #EEC000;
 	width: 100%; /* 790px */
 	height: 275px;
-	padding: 1.2658228%;
 }
 
 h2 {
@@ -88,15 +87,12 @@ h2 {
 	margin: 0 auto;
 	height: 40px;
 	line-height: 40px;
+	padding: 1.2658228%;
 }
 
 #weekly-dish {
-	border: solid #EEC000 2px;
-	width: 6.3291139%
-}
-
-#weekly-dish img{
-	max-width: 100%	
+	padding-bottom: 1.2658228%;
+	padding-left: 1.2658228%;
 }
 
 #info {
