@@ -106,6 +106,9 @@ h2 {
 
 #ingredients {
 	font-family: 'Arial', cursive, Serif;
+}
+
+#ing-list {
 	list-style-type: square;
 }
 
