@@ -97,7 +97,7 @@ h2 {
 }
 
 #info {
-	display: block;
+	/*display: block;*/
 	width: 66.6666667%;
 	margin: 0 auto;
 	padding-left: 1.2658228%;
