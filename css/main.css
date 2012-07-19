@@ -18,7 +18,7 @@ img {
 	float: left;
 }
 
-#about {
+#about, #ingredients {
 	clear: both;
 }
 
@@ -99,6 +99,7 @@ h2 {
 #info {
 	width: 66.6666667%;
 	margin: 0 auto;
+	padding-left: 
 }
 
 #ing-list {
