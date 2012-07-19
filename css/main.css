@@ -128,11 +128,11 @@ ol {
 
 #about {
 	border: dashed #000 2px;
-	padding: 20px;
-	-moz-columns: 3 130px;
-	-webkit-columns: 3 130px;
-	-o-columns: 3 130px;
-	columns: 3 130px;
+	padding: 2.5316456%;
+	-moz-columns: 3 16.4556962%;
+	-webkit-columns: 3 16.4556962%;
+	-o-columns: 3 16.4556962%;
+	columns: 3 16.4556962%;
 	font-family: 'Arial';
 }
 
