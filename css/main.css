@@ -118,6 +118,7 @@ h2 {
 
 #ingredients {
 	width: 31.25%; /* 300px */
+	float: left;
 }
 
 #prep {
