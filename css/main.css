@@ -78,7 +78,6 @@ a:hover {
 	background: #EEC000;
 	width: 100%; /* 790px */
 	height: 275px;
-	font-family: 'Arial', cursive, Serif;
 }
 
 h2 {
@@ -97,6 +96,7 @@ h2 {
 }
 
 #info {
+	font-family: 'Arial', cursive, Serif;
 	width: 47.4683544%;
 	margin: 0 auto;
 	padding-right: 5.6962025%;
@@ -105,11 +105,11 @@ h2 {
 
 #ingredients {
 	list-style-type: square;
-	font-family: 'Times', cursive, Serif;
+	font-family: 'Arial', cursive, Serif;
 }
 
 ol {
-	font-family: 'Times', cursive, Serif;
+	font-family: 'Arial', cursive, Serif;
 }
 
 /*-----------------------------------Other Dishes--------------------------------------*/
