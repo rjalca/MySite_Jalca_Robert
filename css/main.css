@@ -91,14 +91,14 @@ h2 {
 }
 
 #weekly-dish {
+	width: 33.3333333%
 	padding-bottom: 1.2658228%;
 	padding-left: 1.2658228%;
 }
 
 #info {
 	display: block;
-	text-align: center;
-	width: 47.4683544%;
+	width: 66.6666667%;
 	margin: 0 auto;
 	/*padding-right: 5.6962025%;*/
 	/*float: right;*/
