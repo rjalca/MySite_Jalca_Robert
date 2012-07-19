@@ -18,7 +18,7 @@ img {
 	float: left;
 }
 
-#about {
+#about, #other-dishes {
 	clear: both;
 }
 
@@ -115,6 +115,9 @@ h2 {
 #ingredients {
 	width: 33.3333333%; /* 320px */
 }
+
+#prep {
+	float: right;
 
 /*-----------------------------------Other Dishes--------------------------------------*/
 
