@@ -112,6 +112,10 @@ h2 {
 	list-style-type: square;
 }
 
+#cook {
+	width: 100%; /* 960 px */
+}
+
 #ingredients {
 	width: 31.25%; /* 300px */
 }
