@@ -18,7 +18,7 @@ img {
 	float: left;
 }
 
-#about, #ingredients {
+#about {
 	clear: both;
 }
 
@@ -84,24 +84,22 @@ h2 {
 	font-family: 'Yeseva One', cursive, Serif;
 	font-size: 1.5em;
 	font-style: none;
-	width: 100%
 	margin: 0 auto;
 	height: 40px;
 	line-height: 40px;
 	padding: 1.2658228%;
-	float: left;
 }
 
 #weekly-dish {
-	width: 25%
 	padding-bottom: 1.2658228%;
 	padding-left: 1.2658228%;
 }
 
 #info {
-	width: 50%;
-	margin: 1.2658228%;
-	/*padding-left: 1.2658228%;*/
+	width: 47.4683544%;
+	margin: 0 auto;
+	padding-right: 5.6962025%;
+	float: right;
 }
 
 #ing-list {
