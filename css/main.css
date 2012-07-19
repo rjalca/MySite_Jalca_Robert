@@ -137,10 +137,10 @@ h2 {
 	width: 100%; /* 960px */
 	border: dashed #000 2px;
 	padding: 1.0416667%; /* 10px */
-	-moz-columns: 3 130px;
-	-webkit-columns: 3 130px;
-	-o-columns: 3 130px;
-	columns: 3 130px;
+	-moz-columns: 3 120px;
+	-webkit-columns: 3 120px;
+	-o-columns: 3 120px;
+	columns: 3 120px;
 }
 
 /*---------------------------------Subscribe Section-----------------------------------*/
