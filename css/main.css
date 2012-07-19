@@ -96,9 +96,11 @@ h2 {
 }
 
 #info {
+	display: block;
+	text-align: center;
 	width: 47.4683544%;
 	margin: 0 auto;
-	padding-right: 5.6962025%;
+	/*padding-right: 5.6962025%;*/
 	/*float: right;*/
 }
 
