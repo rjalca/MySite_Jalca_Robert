@@ -244,10 +244,6 @@ h2 {
 		margin-top: 0px;
 	}
 	
-	/*#cook {
-		height: 700px;
-	}*/
-	
 	#ingredients, #prep {
 		width: 100%;
 	}
@@ -265,4 +261,49 @@ h2 {
 /* Mobile Portrait size to Mobile Landscape (devices and browsers) */
 @media only screen and (max-width: 479px) {
 	#subscribe { background: green; }
+	
+	header {
+		height: 75px;
+	}
+	
+	#logo {
+		display: none;
+	}
+	
+	h1 {
+		width: 100%;
+		float: none;
+		height: 45px;
+		line-height: 45px;
+		text-align: center;
+	}
+	
+	nav ul {
+		width: 100%;
+	}
+	
+	nav li {
+		margin-top: 0px;
+	}
+	
+	#weekly-img {
+		width: 100%;
+	}
+	
+	#info {
+		display: none;
+	}
+		
+	#ingredients, #prep {
+		width: 100%;
+	}
+	
+	.dishes, .titles {
+		margin-right: 1.6666667%; /* 8px */
+	}
+	
+	#button {
+		font-size: 1.25em;
+	}
+	
 }
