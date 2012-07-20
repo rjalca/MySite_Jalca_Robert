@@ -303,15 +303,11 @@ h2 {
 	}
 	
 	.dishes, .titles {
-		width: 45%;
-	}
-	
-	#dishes-img {
-		float: left;
+		float: none;
 	}
 	
 	.titles {
-		float: right;
+		display: none;
 	}
 	
 	#about {
