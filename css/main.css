@@ -223,6 +223,10 @@ h2 {
 		height: 75px;
 	}
 	
+	#logo {
+		display: none;
+	}
+	
 	h1 {
 		width: 100%;
 		float: none;
