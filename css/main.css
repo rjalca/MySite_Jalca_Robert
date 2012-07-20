@@ -235,6 +235,10 @@ h2 {
 		width: 100%;
 	}
 	
+	nav li {
+		margin-top: 0px;
+	}
+	
 }
 
 /* Mobile Portrait size to Mobile Landscape (devices and browsers) */
