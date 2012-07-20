@@ -113,13 +113,12 @@ h2 {
 
 #cook {
 	width: 100%; /* 960 px */
-	height: 400px;
+	height: 350px;
 	background: red;
 }
 
 #ingredients {
 	width: 33.3333333%;
-	background: green;
 	float: left;
 }
 
@@ -127,7 +126,6 @@ h2 {
 	width: 66.6666667%;
 	margin: 0 auto;
 	float: right;
-	background: purple;
 }
 
 /*-----------------------------------Other Dishes--------------------------------------*/
