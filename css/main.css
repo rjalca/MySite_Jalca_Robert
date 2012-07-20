@@ -303,7 +303,7 @@ h2 {
 	}
 	
 	.dishes, .titles {
-		float: none;
+		width: 50%;
 	}
 	
 	.titles {
@@ -311,7 +311,7 @@ h2 {
 	}
 	
 	#about {
-	
+
 	}
 	
 	#button {
