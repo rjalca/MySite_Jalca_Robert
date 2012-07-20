@@ -302,30 +302,13 @@ h2 {
 		width: 100%;
 	}
 	
-	/*.dishes, .titles {
+	.dishes, .titles {
 		width: 45%;
 	}
 	
 	.titles {
 		float: right;
-	}*/
-	
-	#other-dishes {
-		padding: 1.2658228%;
-		width: 100%; /* 960 px */
-		height: 750px;
 	}
-
-	.dishes {
-		width: 40%;
-		float: left;
-	}
-
-	.titles {
-		width: 50%;
-		margin: 0 auto;
-		float: right;
-	}	
 	
 	#about {
 	
