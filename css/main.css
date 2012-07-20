@@ -116,10 +116,13 @@ h2 {
 }
 
 #ingredients {
+	display: block;
 	width: 41.6666667%;
+	float: left;
 }
 
 #prep {
+	display: block;
 	width: 52.0833333%;
 	margin: 0 auto;
 	float: right;
