@@ -256,6 +256,10 @@ h2 {
 		margin-right: 1.6666667%; /* 8px */
 	}
 	
+	#about {
+		columns: 0;
+	}
+	
 }
 
 /* Mobile Portrait size to Mobile Landscape (devices and browsers) */
