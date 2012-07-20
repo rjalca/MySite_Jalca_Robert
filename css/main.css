@@ -113,16 +113,14 @@ h2 {
 
 #cook {
 	width: 100%; /* 960 px */
-	background: blue;
+	height: 400px;
 }
 
 #ingredients {
-	display: block;
 	width: 41.6666667%;
 }
 
 #prep {
-	display: block;
 	width: 52.0833333%;
 	margin: 0 auto;
 	float: right;
