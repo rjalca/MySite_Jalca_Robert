@@ -87,7 +87,6 @@ a:hover {
 h2 {
 	font-family: 'Yeseva One', cursive, Serif;
 	font-size: 1.5em;
-	font-style: none;
 	width: 100%; /* 960px */
 	margin: 0 auto;
 	height: 40px;
@@ -118,7 +117,6 @@ h2 {
 
 #ingredients {
 	width: 31.25%; /* 300px */
-	float: left;
 }
 
 #prep {
