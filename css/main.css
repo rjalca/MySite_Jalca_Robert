@@ -1,0 +1,310 @@
+body {
+	max-width: 960px;
+	margin: 0 auto;
+	background: #FFF764;
+	font-family: 'Arial', cursive, Serif;
+	font-size: 1em;
+}
+
+/* ------------------------------------Nav Section--------------------------------------*/
+
+header {
+	background: #FF8C00;
+	width: 100%; /* 960px */
+	height: 50px;
+}
+
+img {
+	float: left;
+}
+
+#about, #other-dishes, #cook {
+	clear: both;
+}
+
+#logo {
+	width: 5.2083333%; /* 50px */
+}
+
+h1 {
+	font-family: 'Fondamento', cursive, Serif;
+	font-size: 2em;
+	text-shadow: 2px 2px 2px #F5F5F5;
+	padding-left: 1.2658228%;
+	width: 61.4583333%; /* 590px */
+	margin: 0 auto;
+	height: 50px;
+	line-height: 50px;
+	float: left;
+}
+
+nav ul {
+	width: 33.3333333%; /* 320px */
+	margin: 0 auto;
+	padding: 0;
+	list-style-type: none;
+	overflow: hidden;
+}
+
+nav li {
+	width: 33.3333333%; /* 100px */
+	margin-top: 20px;
+	float: left;
+}
+
+nav a {
+	text-decoration: none;
+	display: block;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+}
+
+a:visited {
+	color: #800000;
+}
+
+a:active {
+	color: #0000FF;
+	background: #FFF764;
+}
+
+a:hover {
+	color: #000;
+	background: #FFF764;
+}
+
+
+
+/*---------------------------------- Dish of the Week----------------------------------*/
+
+#main-dish {
+	background: #EEC000;
+	width: 100%; /* 960px */
+	height: 275px;
+}
+
+h2 {
+	font-family: 'Yeseva One', cursive, Serif;
+	font-size: 1.5em;
+	width: 100%; /* 960px */
+	margin: 0 auto;
+	height: 40px;
+	line-height: 40px;
+	padding: 1.2658228%;
+}
+
+#weekly-img {
+	width: 41.6666667%; /* 400px */
+	padding-bottom: 1.2658228%;
+	padding-left: 1.2658228%;
+}
+
+#info {
+	width: 52.0833333%; /* 500px */
+	margin: 0 auto;
+	padding-right: 1.2658228%;
+	float: right;
+}
+
+#ing-list {
+	list-style-type: square;
+}
+
+#cook {
+	padding: 1.2658228%;
+	width: 100%; /* 960 px */
+	height: 300px;
+}
+
+#ingredients {
+	width: 33.3333333%;
+	float: left;
+}
+
+#prep {
+	width: 66.6666667%;
+	margin: 0 auto;
+	float: right;
+}
+
+/*-----------------------------------Other Dishes--------------------------------------*/
+
+#other-dishes {
+	width: 100%; /* 960px */
+}
+
+.dishes {
+	width: 18.2291667%; /* 175 px */
+	margin-right: 6.3541667%; /* 61px */
+	border: solid #EEC000 2px;
+}
+
+.titles {
+	width: 18.2291667%; /* 175 px */
+	margin-right: 6.3541667%; /* 61px */
+	text-align: center;
+	float: left;
+}
+
+/*-----------------------------------About Info----------------------------------------*/
+
+#about {
+	width: 97.5%; /* 936px */
+	border: dashed #000 2px;
+	padding: 1.0416667%; /* 10px */
+	-moz-columns: 3 120px;
+	-webkit-columns: 3 120px;
+	-o-columns: 3 120px;
+	columns: 3 120px;
+}
+
+/*---------------------------------Subscribe Section-----------------------------------*/
+
+#subscribe {
+	width: 100%; /* 960px */
+	height: 400px;
+	background:  #EEC000;
+	opacity: 0.7; 
+}
+
+#button {
+	display: inline-block;
+	outline: none;
+	cursor: pointer;
+	width: 25.3164557%;
+	height: 30px;
+	line-height: 30px;
+	font-size: 2em;
+	text-align: center;
+	text-decoration: none;
+	background: #EEC000;
+	background: -webkit-gradient(linear, left top, left bottom, from(#EEC000), to(#F47A20));
+	background: -moz-linear-gradient(top, #EEC000, #F47A20);
+	border: solid 1px #000;
+	-moz-border-radius: .5em;
+	-webkit-border-radius: .5em;
+	-o-border-radius: .5em;
+	border-radius: .5em;
+	-moz-box-shadow: 0 2px 2px #000;
+	-webkit-box-shadow: 0 2px 2px #000;
+	-o-box-shadow: 0 2px 2px #000;
+	box-shadow: 0 2px 2px #000;
+}
+
+#button:hover {
+	text-decoration: none;
+	background: -webkit-gradient(linear, left top, left bottom, from(#F88E11), to(#F06015));
+	background: -moz-linear-gradient(top, #F88E11, #F06015);
+}
+
+#button:active {
+	position: relative;
+	top: 1px;
+	background: -webkit-gradient(linear, left top, left bottom, from(#F47A20), to(#EEC000));
+	background: -moz-linear-gradient(top, #F47A20, #EEC000);
+}
+
+/*------------------------------------Media Queries------------------------------------*/
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media screen and (min-width: 768px) and (max-width: 959px) {
+	
+	.dishes, .titles {
+		margin-right: 1.6927083%; /* 13px */
+	}
+}
+
+/* Mobile Landscape size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+	header {
+		height: 75px;
+	}
+	
+	#logo {
+		display: none;
+	}
+	
+	h1 {
+		width: 100%;
+		float: none;
+		height: 45px;
+		line-height: 45px;
+		text-align: center;
+	}
+	
+	nav ul {
+		width: 100%;
+	}
+	
+	nav li {
+		margin-top: 0px;
+	}
+	
+	#ingredients, #prep {
+		width: 100%;
+	}
+	
+	.dishes, .titles {
+		margin-right: 1.6666667%; /* 8px */
+	}
+	
+	#button {
+		font-size: 1.25em;
+	}
+	
+}
+
+/* Mobile Portrait size to Mobile Landscape (devices and browsers) */
+@media only screen and (max-width: 479px) {
+	
+	header {
+		height: 75px;
+	}
+	
+	#logo {
+		display: none;
+	}
+	
+	h1 {
+		width: 100%;
+		float: none;
+		height: 45px;
+		line-height: 45px;
+		text-align: center;
+	}
+	
+	nav ul {
+		width: 100%;
+	}
+	
+	nav li {
+		margin-top: 0px;
+	}
+	
+	#weekly-img {
+		width: 100%;
+	}
+	
+	#info {
+		display: none;
+	}
+		
+	#ingredients, #prep {
+		width: 100%;
+	}
+	
+	.dishes, .titles {
+		width: 50%;
+	}
+	
+	.titles {
+		display: none;
+	}
+	
+	#button {
+		font-size: 1em;
+	}
+	
+}
