@@ -257,7 +257,7 @@ h2 {
 	}
 	
 	#about {
-		columns: 0;
+		columns: none;
 	}
 	
 }
