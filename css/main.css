@@ -299,7 +299,7 @@ h2 {
 	}
 	
 	.dishes, .titles {
-		margin-right: 1.6666667%; /* 8px */
+		width: 50%
 	}
 	
 	#button {
