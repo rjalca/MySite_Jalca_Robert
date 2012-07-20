@@ -208,7 +208,7 @@ h2 {
 /*------------------------------------Media Queries------------------------------------*/
 
 /* Tablet Portrait size to standard 960 (devices and browsers) */
-@media screen and (min-width: 768px) and (max-width: 959px) {
+@media screen and (min-width: 768px) and (max-width: 948px) {
 	#subscribe { background: blue; }
 	.dishes {
 		margin-right: 1.6927083%; /* 13px */
