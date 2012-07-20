@@ -243,6 +243,10 @@ h2 {
 		margin-top: 0px;
 	}
 	
+	#ingredient, #prep {
+		float: none;
+	}
+	
 }
 
 /* Mobile Portrait size to Mobile Landscape (devices and browsers) */
