@@ -257,8 +257,7 @@ h2 {
 	}
 	
 	#about {
-		width: 100%
-		column-visibility: collapse;
+		visibility: collapse;
 	}
 	
 }
