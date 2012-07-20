@@ -305,8 +305,11 @@ h2 {
 	.dishes, .titles {
 		width: 50%;
 		margin: 0 auto;
-		float: none;
 	}
+	
+	.titles {
+		float: right;
+	}	
 	
 	#about {
 	
