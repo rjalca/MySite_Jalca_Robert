@@ -209,7 +209,6 @@ h2 {
 
 /* Tablet Portrait size to standard 960 (devices and browsers) */
 @media screen and (min-width: 768px) and (max-width: 959px) {
-	#subscribe { background: blue; }
 	
 	.dishes, .titles {
 		margin-right: 1.6927083%; /* 13px */
@@ -218,7 +217,6 @@ h2 {
 
 /* Mobile Landscape size to Tablet Portrait (devices and browsers) */
 @media only screen and (min-width: 480px) and (max-width: 767px) {
-	#subscribe { background: red; }
 
 	header {
 		height: 75px;
@@ -252,10 +250,6 @@ h2 {
 		margin-right: 1.6666667%; /* 8px */
 	}
 	
-	#about {
-	
-	}
-	
 	#button {
 		font-size: 1.25em;
 	}
@@ -264,7 +258,6 @@ h2 {
 
 /* Mobile Portrait size to Mobile Landscape (devices and browsers) */
 @media only screen and (max-width: 479px) {
-	#subscribe { background: green; }
 	
 	header {
 		height: 75px;
@@ -308,10 +301,6 @@ h2 {
 	
 	.titles {
 		display: none;
-	}
-	
-	#about {
-		display: collapse;
 	}
 	
 	#button {
