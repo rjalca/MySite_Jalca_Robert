@@ -120,6 +120,7 @@ h2 {
 #ingredients {
 	width: 33.3333333%;
 	background: green;
+	float: left;
 }
 
 #prep {
