@@ -218,6 +218,9 @@ h2 {
 /* Mobile Landscape size to Tablet Portrait (devices and browsers) */
 @media only screen and (min-width: 480px) and (max-width: 767px) {
 	#subscribe { background: red; }
+	h1 {
+		width: 100%;
+	}
 }
 
 /* Mobile Portrait size to Mobile Landscape (devices and browsers) */
