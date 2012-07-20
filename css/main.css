@@ -252,6 +252,10 @@ h2 {
 		margin-right: 1.6666667%; /* 8px */
 	}
 	
+	#about {
+	
+	}
+	
 	#button {
 		font-size: 1.25em;
 	}
@@ -299,8 +303,12 @@ h2 {
 	}
 	
 	.dishes, .titles {
-		width: 50%
+		margin: 0 auto;
 		float: none;
+	}
+	
+	#about {
+	
 	}
 	
 	#button {
