@@ -219,9 +219,15 @@ h2 {
 @media only screen and (min-width: 480px) and (max-width: 767px) {
 	#subscribe { background: red; }
 
+	header {
+		height: 75px;
+	}
+	
 	h1 {
 		width: 100%;
 		float: none;
+		height: 45px;
+		line-height: 45px;
 		text-align: center;
 	}
 	
