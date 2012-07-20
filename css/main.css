@@ -257,7 +257,7 @@ h2 {
 	}
 	
 	#about {
-		visibility: collapse;
+		column: auto 100%;
 	}
 	
 }
