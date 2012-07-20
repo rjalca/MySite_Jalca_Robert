@@ -243,6 +243,10 @@ h2 {
 		margin-top: 0px;
 	}
 	
+	#cook {
+		height: 600px;
+	}
+	
 	#ingredient, #prep {
 		width: 100%;
 		float: none;
