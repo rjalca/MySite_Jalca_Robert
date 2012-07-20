@@ -116,13 +116,12 @@ h2 {
 }
 
 #ingredients {
-	margin: 0 auto;
-	width: 31.25%; /* 300px */
+	width: 41.6666667%;
 }
 
 #prep {
+	width: 52.0833333%;
 	margin: 0 auto;
-	width: 62.5%; /* 600px */
 	float: right;
 }
 
