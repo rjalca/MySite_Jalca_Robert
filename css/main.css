@@ -300,6 +300,7 @@ h2 {
 	
 	.dishes, .titles {
 		width: 50%
+		float: none;
 	}
 	
 	#button {
