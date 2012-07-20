@@ -118,12 +118,14 @@ h2 {
 
 #ingredients {
 	width: 41.6666667%;
+	background: green;
 }
 
 #prep {
 	width: 52.0833333%;
 	margin: 0 auto;
 	float: right;
+	background: purple;
 }
 
 /*-----------------------------------Other Dishes--------------------------------------*/
