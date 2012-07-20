@@ -302,18 +302,11 @@ h2 {
 		width: 100%;
 	}
 	
-	#other-dishes {
-		margin: 100%;
-		height: 400px;
-	}
-	
-	.dishes {
-		width: 66.6666667%;
+	.dishes, .titles {
+		width: 50%;
 	}
 	
 	.titles {
-		width: 33.3333333%;
-		margin: 0 auto;
 		float: right;
 	}	
 	
