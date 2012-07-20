@@ -256,8 +256,9 @@ h2 {
 		margin-right: 1.6666667%; /* 8px */
 	}
 	
-	#about {
-		visibility: collapse;
+	#button {
+		height: 15px;
+		line-height: 15px;
 	}
 	
 }
