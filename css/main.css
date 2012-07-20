@@ -306,6 +306,10 @@ h2 {
 		width: 45%;
 	}
 	
+	#dishes-img {
+		float: left;
+	}
+	
 	.titles {
 		float: right;
 	}
