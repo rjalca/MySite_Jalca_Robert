@@ -18,7 +18,7 @@ img {
 	float: left;
 }
 
-#about, #other-dishes {
+#about, #other-dishes, #cook {
 	clear: both;
 }
 
@@ -118,13 +118,11 @@ h2 {
 }
 
 #ingredients {
-	display: block;
 	width: 33.3333333%;
 	background: green;
 }
 
 #prep {
-	display: block;
 	width: 66.6666667%;
 	margin: 0 auto;
 	float: right;
