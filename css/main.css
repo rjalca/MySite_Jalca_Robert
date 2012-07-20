@@ -220,6 +220,7 @@ h2 {
 	#subscribe { background: red; }
 	h1 {
 		width: 100%;
+		float: none;
 	}
 }
 
