@@ -114,6 +114,7 @@ h2 {
 #cook {
 	width: 100%; /* 960 px */
 	height: 400px;
+	float: left;
 }
 
 #ingredients {
