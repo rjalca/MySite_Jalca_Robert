@@ -257,7 +257,8 @@ h2 {
 	}
 	
 	#about {
-		column: auto 100%;
+		column-width: 100%;
+		column-count: auto;
 	}
 	
 }
